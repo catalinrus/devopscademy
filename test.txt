@@ -1,1 +1,6 @@
-devopscademy
+#!/bin/bash
+
+echo current user "$(whoami)"
+echo current working directory is "$(pwd)"
+echo all the files inside the current direcotry "$(ls -la)"
+echo today is "$(date)"
