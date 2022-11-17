@@ -5,3 +5,4 @@ echo current working directory is "$(pwd)"
 echo all the files inside the current direcotory "$(ls -la)"
 echo today is "$(date)"
 echo check information about the RAM usage "$(free -m)"
+echo test Jenkins
